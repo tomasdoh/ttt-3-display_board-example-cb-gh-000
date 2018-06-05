@@ -10,3 +10,5 @@ def display_board
   puts divider
   puts line
 end
+
+display_board
