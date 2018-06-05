@@ -2,7 +2,7 @@
 
 
 def display_board
-  line = ["   ", "|", "   ", "|", "   "]
+  line = "   |   |   "
   divider = "-----------"
   puts line
   puts divider
